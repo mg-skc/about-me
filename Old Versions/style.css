@@ -1,0 +1,54 @@
+
+
+  a:link {
+    color: #A64AC9;
+    font-family: asap;
+    text-decoration: none;
+  }
+
+  #link_button {
+    background-color: white;
+    color: #A64AC9;
+    border: 3px solid #A64AC9; 
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+    font-family: asap;
+  }
+
+/*#uo_end {
+    font-color:#A64AC9;
+    text-decoration: none;}*/
+    
+#container {
+      background-color: white; 
+      color: black; 
+      font-family: Asap; 
+      margin: auto;
+      margin: 20px,100px,30px,100px;
+      padding: 20px;
+      width: 50%;
+          }
+
+  .purple-headline{
+    color:#A64AC9;
+    text-decoration: none;
+  }
+    
+  .left-col {
+      vertical-align: text-top;
+      float: left;
+    }
+    
+  .right-col {
+      vertical-align: top;
+      float: right;
+    }
+  .clearFix{
+      clear:both
+  }
+    /*The margins and padding specify where to place
+    the container in relation to the body*/
+body {
+    background-color: black;
+}
